@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "VS_Azure_RG_ADDS_001", "VS_Azure_RG_ADDS_001\VS_Azure_RG_ADDS_001.deployproj", "{F48DD21F-ADC6-4CC1-AFCE-B915265959E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48DD21F-ADC6-4CC1-AFCE-B915265959E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48DD21F-ADC6-4CC1-AFCE-B915265959E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48DD21F-ADC6-4CC1-AFCE-B915265959E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48DD21F-ADC6-4CC1-AFCE-B915265959E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminUsername": {
+      "value": "srvadmin"
+    },
+    "dnsNameForPublicIP": {
+      "value": "vs-azure-rg-adds-001"
+    },
+    "adminPassword": { "value": "Password1234" },
+    "AdminUser1CredParam": {"value": "Password1234"},
+    "windowsOSversion": { "value": "2012-R2-Datacenter" },
+    "sizeofDataDiskinGB": { "value": 20 },
+    "DSC-VMDCUpdateTagVersion": { "value": "2.0" },
+    "FQDomainName": { "value": "pfdevazure.local" }
+  }
+}
